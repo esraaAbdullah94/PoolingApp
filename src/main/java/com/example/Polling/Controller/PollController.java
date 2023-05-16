@@ -1,7 +1,6 @@
 package com.example.Polling.Controller;
 
 import com.example.Polling.Modle.PollCreationRequest;
-import com.example.Polling.Modle.Vote;
 import com.example.Polling.Service.PollService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
